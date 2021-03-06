@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Myself `Raja N`, I go in community with the name `raaja-nithra`. I'm a mobile technology enthusiast! love Android __FlutterAlltheWay__, want to explore all opportunity around it! 
 ### Languages and Tools:
 <p style="display:flex;">
-<img src="https://flutter.dev//assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="50">
+<img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif"" height="100">
 <img alt="GIF" src="https://4.bp.blogspot.com/-W5OWLDA6yl8/WeRSulrYe-I/AAAAAAAAASI/LGJzBOKt3ccExghJHQgavXL6XXV0pxE1gCLcBGAs/s1600/2000.gif" height="80">
 </p>
 
